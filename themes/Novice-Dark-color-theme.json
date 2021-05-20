@@ -51,7 +51,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#277ea7"
+				"foreground": "#5d81b6"
 			}
 		},
 		{
@@ -61,7 +61,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -91,7 +91,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#dda3ff"
 			}
 		},
 		{
@@ -122,7 +122,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff7a89"
 			}
 		},
 		{
@@ -135,7 +135,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#7ce5ff"
 			}
 		},
 		{
@@ -144,7 +144,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff7a89"
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff7a89"
 			}
 		},
 		{
@@ -170,7 +170,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#ff9b7d"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#a9ccdd"
 			}
 		},
 		{
@@ -235,7 +235,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff7a89"
 			}
 		},
 		{
@@ -245,7 +245,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#ff7a89"
 			}
 		},
 		{
@@ -321,7 +321,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff7a89"
 			}
 		},
 		{
@@ -380,7 +380,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#ff7a89"
 			}
 		},
 		{
@@ -416,7 +416,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff7a89"
 			}
 		},
 		{
